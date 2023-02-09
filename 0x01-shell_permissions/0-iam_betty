@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty c7bb2a879efa
+su betty
